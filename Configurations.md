@@ -127,6 +127,15 @@ Request logging captures details about API requests, responses, and errors. This
 
 ---
 
+
+### Swagger base URL host in PostgREST
+```
+PGRST_OPENAPI_SERVER_PROXY_URI=hostname
+
+
+```
+
+
 ## Summary
 
 - **Connection Pooling:**  
